@@ -28,8 +28,8 @@ workflows:
       - flutter packages pub get
       - flutter build apk --release
       - find . -name "Podfile" -execdir pod install \;
-      - xcode-project use-profiles
-      - xcode-project build-ipa --workspace ios/Runner.xcworkspace --scheme Runner
+      - flutter build ios --debug --no-codesign
+
     artifacts:
       - build/**/outputs/**/*.apk
       - build/**/outputs/**/*.aab
