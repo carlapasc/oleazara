@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "356073610590",
+    "firebase_url": "https://oleazaraapp.firebaseio.com",
+    "project_id": "oleazaraapp",
+    "storage_bucket": "oleazaraapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356073610590:android:5cc00a9537821ba362c3cf",
+        "android_client_info": {
+          "package_name": "com.example.oleazara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356073610590-otk8je92ng90k6pmjn47vkk5s2noj5e1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.oleazara",
+            "certificate_hash": "a35804fa3f9de71b2c2d0ac32c5895a43530fc26"
+          }
+        },
+        {
+          "client_id": "356073610590-iaqdaboq4c3c1evg2dfssaikc0lcf9uq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4nlzrlX_Blogzi4V1O5QVhDmnWKHJWrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356073610590-iaqdaboq4c3c1evg2dfssaikc0lcf9uq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
